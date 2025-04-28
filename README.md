@@ -17,7 +17,7 @@
   <a href="https://youtube.com/@sufalbasak2005?si=FdbA3K4C3lWPD29n">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-   <a href="[https://www.instagram.com/SufalBasak](https://www.instagram.com/sufal_basak_2005?igsh=MWhlbnN2dnMzeXZtNA==)">
+   <a href="https://www.instagram.com/sufal_basak_2005?igsh=MWhlbnN2dnMzeXZtNA==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.facebook.com/share/14DY84srMgC/?mibextid=qi2Omg">
@@ -26,6 +26,10 @@
    <a href="https://twitter.com/axiftaj">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/sufal-basak-b95748260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ 
 </div>
 
 ### Languages and Tools:
