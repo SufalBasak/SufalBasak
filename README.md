@@ -35,9 +35,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=c,c++,dart,HTML,CSS,js,github,git,figma,xd&perline=5)](https://skillicons.dev)
 
-![Sufal Basak's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Sufal Basak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SufalBasak&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufalbasak&theme=dark)
 
 
 <br>
