@@ -33,7 +33,7 @@
  
 </div>
 
-### Languages and Tools:
+### Languages:
 [![My Skills](https://skillicons.dev/icons?i=C++,js,html,css,VSCode)](https://skillicons.dev)
 
 ![Sufal Basak's GitHub stats](https://github-readme-stats.vercel.app/api?username=SufalBasak&show_icons=true&theme=dark)
