@@ -3,9 +3,9 @@
 
  <h1 align="center">Hi 👋, I'm Sufal Basak</h1>
 
-- 🔭 I’m currently working on Devlopment
-- 🌱 I’m currently learning Frontend Devlopment
-- 💬 Ask me anything about Flutter 
+- 🔭 I’m currently working on Web Devlopment.
+- 🌱 I’m currently learning Frontend Devlopment.
+- 💬 Ask me anything about JavaScript 
 - 📫 How to reach me: sufalbasak199@gmail.com
 - 😄 My website:
 - ⚡ Fun fact: I'm comming to teen
@@ -24,7 +24,7 @@
    <a href="https://www.facebook.com/share/14DY84srMgC/?mibextid=qi2Omg">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="https://twitter.com/axiftaj">
+   <a href="https://twitter.com/Sufal_Basak_5">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/sufal-basak-b95748260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
