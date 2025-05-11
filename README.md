@@ -1,5 +1,5 @@
 <img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/36/e4/d0/36e4d0b856694fc471344b644a1dd6e4.gif">
-## Hi there 👋
+ Hi there 👋
 
  <h1 align="center">Hi 👋, I'm Sufal Basak</h1>
 
