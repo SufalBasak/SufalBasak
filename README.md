@@ -2,6 +2,7 @@
  Hi there 👋
 
  <h1 align="center">Hi 👋, I'm Sufal Basak</h1>
+ <img align="right" alt="Coding" width="230" src="https://i.pinimg.com/originals/72/98/a2/7298a259e46ced8d8d636b3081a1ed57.gif">
 
 - 🔭 I’m currently working on Web Devlopment.
 - 🌱 I’m currently learning Frontend Devlopment.
