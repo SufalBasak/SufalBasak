@@ -1,4 +1,4 @@
-<img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/36/e4/d0/36e4d0b856694fc471344b644a1dd6e4.gif">
+<img align="top" alt="Banner" width="1000" height="300" src="[https://i.pinimg.com/originals/36/e4/d0/36e4d0b856694fc471344b644a1dd6e4.gif](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)">
  Hi there 👋
 
  <h1 align="center">Hi 👋, I'm Sufal Basak</h1>
