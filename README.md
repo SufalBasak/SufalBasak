@@ -1,33 +1,35 @@
-<img align="top" alt="Banner" width="1000" height="300" src="https://private-user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcxNDg4MTQsIm5iZiI6MTc1NzE0ODUxNCwicGF0aCI6Ii83NDAzODE5MC8yNDk1NzA4MDMtMDIyOTM3NjgtOTI0Mi00N2UxLWJmOGYtZDA4NGJhMGEyZDFkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA2VDA4NDgzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU0MmE3NTk1ZWMwODdlZGZhODVhN2RhOTg0ZDA2ZThmYTljMGNmN2Q0MjM1ZjgyYTdiODBiMWYxNDAwYjUwYWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.0bhtv_WgFQAFCBaFq35ezpuUwjiiGUct8TI5cNiEZ40">
+<img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
  Hi there 👋
 
- <h1 align="center">Hi 👋, I'm Sania Chakraborty</h1>
- <img align="right" alt="Coding" width="230" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcxNDg4MTQsIm5iZiI6MTc1NzE0ODUxNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA2VDA4NDgzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM3MmVmN2E2MTZjYjk2N2YwOGY4NTE1MTViMmU0MTIxYjUzMjhmYzE5Y2E0MjQ2MjZkOWY5YjYzYmFkZjVlZWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ySljhFnRmCh4ghibJr2uloboTD9Abg4amenGSVhSKv4">
+ <h1 align="center">Hi 👋, I'm Sufal Basak</h1>
+ <img align="right" alt="Coding" width="230" src="https://i.pinimg.com/originals/72/98/a2/7298a259e46ced8d8d636b3081a1ed57.gif">
 
-- 🔭 I’m currently working on Blockchain Devlopment.
-- 🌱 I’m currently learning Blockchain Devlopment, Problem Solving
-
-- 📫 How to reach me: sania.chokraborty555@gmail.com
-
-- ⚡ Fun fact: My cloud storage is more organized than my room.
+- 🔭 I’m currently working on Web Devlopment.
+- 🌱 I’m currently learning Frontend Devlopment.
+- 💬 Ask me anything about JavaScript 
+- 📫 How to reach me: sufalbasak199@gmail.com
+- 😄 My website:https://sufalportfolio.netlify.app/
+- ⚡ Fun fact: I'm comming to teen
   
 ### Connect with me:
 <div id="badges">
-  <a href="https://github.com/SaniaChokraborty">
+  <a href="https://github.com/SufalBasak">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  
-   <a href="https://www.instagram.com/sania__chakraborty?igsh=NWNpbXE0cm9xYTRj">
+  <a href="https://youtube.com/@sufalbasak2005?si=FdbA3K4C3lWPD29n">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+   <a href="https://www.instagram.com/sufal_basak_2005?igsh=MWhlbnN2dnMzeXZtNA==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="">
+   <a href="https://www.facebook.com/share/14DY84srMgC/?mibextid=qi2Omg">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-   <a href="">
+   <a href="https://twitter.com/Sufal_Basak_5">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/sania-chakraborty-937b7b328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkedin Badge"/>
+  <a href="https://www.linkedin.com/in/sufal-basak-b95748260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  
 </div>
@@ -56,15 +58,7 @@
 
 <!-- Google Cloud -->
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Badge"/>
-<!-- Blockchain Tech Stack -->
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity Badge"/>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum Badge"/>
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js Badge"/>
-<img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat Badge"/>
-<img src="https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white" alt="Truffle Badge"/>
-<img src="https://img.shields.io/badge/Metamask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" alt="Metamask Badge"/>
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS Badge"/>
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink Badge"/>
+
 <!-- GitHub -->
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 
@@ -90,3 +84,7 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/>
 
 </div>
+
+
+<br>
+⭐ From [SufalBasak](https://github.com/SufalBasak)
