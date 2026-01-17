@@ -27,7 +27,9 @@ I am currently a fresher, actively building projects and strengthening my techni
 I am pursuing a Bachelor of Technology in Information Technology with a CGPA of 8.0. <br>  I completed my Class 12 education from Bhatpara Amar Krishna Pathshala with a score of 77% <br> and my Class 10 education from the same institution with a score of 85%. <br>
 
 ## 🏆 Certifications & Achievements
-I have completed the Deloitte Data Analytics Job Simulation and earned certifications from Udemy as well as a Classroom C Programming Certification. I also participated in Hack4Bengal 2025, gaining valuable exposure to collaborative problem-solving and real-world project development.
+I have completed the Deloitte Data Analytics Job Simulation and earned certifications<br>
+Classroom C Programming Certification.<br>
+I also participated in Hack4Bengal 2025, gaining valuable exposure to collaborative problem-solving and real-world project development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sufal-basak-b95748260/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Sufal-Basak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sufalbasak199@gmail.com) [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@sufalbasak199)
