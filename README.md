@@ -1,5 +1,5 @@
+<img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 <h1 align="center">Hi 👋, I'm Sufal Basak</h1>
- <img align="right" alt="Coding" width="230" src="https://i.pinimg.com/originals/72/98/a2/7298a259e46ced8d8d636b3081a1ed57.gif">
 # 💫 About Me:
 Name<br><br>Sufal Basak<br><br>About Me<br><br>I am a B.Tech student in Information Technology with a strong passion for problem-solving, data analytics, and web development. I enjoy building efficient, user-centric applications and continuously enhancing my technical expertise.<br><br>Technical Skills<br><br>Programming Languages:<br>C, Python (OOPs), Java<br><br>Frontend Technologies:<br>HTML, CSS, JavaScript, React<br><br>Backend Technologies:<br>Python, Flask, FastAPI<br><br>Database:<br>MySQL<br><br>Tools & Platforms:<br>VS Code, Google Colab, Tableau, Power BI, MS Office, Vercel<br><br>Experience<br><br>Fresher<br><br>Education<br><br>Class 10:<br>Bhatpara Amar Krishna Pathshala – 85%<br><br>Class 12:<br>Bhatpara Amar Krishna Pathshala – 77%<br><br>B.Tech in Information Technology:<br>8.0 CGPA<br><br><br>Certifications & Achievements<br><br>Udemy Course Certification<br><br>Classroom C Programming Certification<br><br>Deloitte Data Analytics Job Simulation<br><br>Participant – Hack4Bengal 2025
 
