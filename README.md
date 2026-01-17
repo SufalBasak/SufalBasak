@@ -1,6 +1,6 @@
 <img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 <h1 align="center">Hi 👋, I'm Sufal Basak</h1>
-# 👋 Sufal Basak
+
 
 ## 💫 About Me
 I am a B.Tech student in Information Technology with a strong passion for problem-solving, data analytics, and web development. I enjoy building efficient, user-centric applications and continuously enhancing my technical expertise through hands-on learning and real-world projects.
