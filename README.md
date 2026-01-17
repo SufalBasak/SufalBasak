@@ -24,7 +24,7 @@ The WeatherAPI project is a real-time weather forecasting web application that f
 ## 💼 Experience
 I am currently a fresher, actively building projects and strengthening my technical skills through practical implementation and continuous learning.
 ## 🎓 Education
-I am pursuing a Bachelor of Technology in Information Technology with a CGPA of 8.0. I completed my Class 12 education from Bhatpara Amar Krishna Pathshala with a score of 77% and my Class 10 education from the same institution with a score of 85%.
+I am pursuing a Bachelor of Technology in Information Technology with a CGPA of 8.0. <br>  I completed my Class 12 education from Bhatpara Amar Krishna Pathshala with a score of 77% <br> and my Class 10 education from the same institution with a score of 85%. <br>
 
 ## 🏆 Certifications & Achievements
 I have completed the Deloitte Data Analytics Job Simulation and earned certifications from Udemy as well as a Classroom C Programming Certification. I also participated in Hack4Bengal 2025, gaining valuable exposure to collaborative problem-solving and real-world project development.
