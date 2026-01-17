@@ -1,7 +1,33 @@
 <img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 <h1 align="center">Hi 👋, I'm Sufal Basak</h1>
-# 💫 About Me:
-Name<br><br>Sufal Basak<br><br>About Me<br><br>I am a B.Tech student in Information Technology with a strong passion for problem-solving, data analytics, and web development. I enjoy building efficient, user-centric applications and continuously enhancing my technical expertise.<br><br>Technical Skills<br><br>Programming Languages:<br>C, Python (OOPs), Java<br><br>Frontend Technologies:<br>HTML, CSS, JavaScript, React<br><br>Backend Technologies:<br>Python, Flask, FastAPI<br><br>Database:<br>MySQL<br><br>Tools & Platforms:<br>VS Code, Google Colab, Tableau, Power BI, MS Office, Vercel<br><br>Experience<br><br>Fresher<br><br>Education<br><br>Class 10:<br>Bhatpara Amar Krishna Pathshala – 85%<br><br>Class 12:<br>Bhatpara Amar Krishna Pathshala – 77%<br><br>B.Tech in Information Technology:<br>8.0 CGPA<br><br><br>Certifications & Achievements<br><br>Udemy Course Certification<br><br>Classroom C Programming Certification<br><br>Deloitte Data Analytics Job Simulation<br><br>Participant – Hack4Bengal 2025
+# 👋 Sufal Basak
+
+## 💫 About Me
+I am a B.Tech student in Information Technology with a strong passion for problem-solving, data analytics, and web development. I enjoy building efficient, user-centric applications and continuously enhancing my technical expertise through hands-on learning and real-world projects.
+## 🛠️ Technical Skills
+I have hands-on experience with programming languages such as C, Python (OOPs), and Java. My frontend development skills include HTML, CSS, JavaScript, and React, enabling me to build responsive and interactive user interfaces. On the backend, I work with Python-based frameworks including Flask and FastAPI to develop scalable server-side applications. I am familiar with relational database management using MySQL and regularly use tools and platforms such as VS Code, Google Colab, Tableau, Power BI, MS Office, and Vercel to support development, analysis, and deployment workflows.
+
+## 📌 Projects
+
+### TypeSpeak Pro – Typing & Speaking Practice Platform
+TypeSpeak Pro is an interview preparation platform designed to improve typing speed and spoken communication skills. The application provides real-time typing metrics such as words per minute (WPM), accuracy, and performance feedback to help users track progress. It features a responsive and interactive user interface built using HTML, CSS, JavaScript, and React, and is deployed on Vercel to ensure fast and reliable access.
+
+### BuildBox – Digital Project Marketplace
+BuildBox is a web-based digital marketplace created to showcase and sell development projects with preview and purchase functionality. The platform includes user authentication and well-structured project listings to enhance usability. Emphasis was placed on clean UI/UX design and scalable frontend architecture, implemented using React and JavaScript.
+
+### Medicom – Medical Assistance Web Application
+Medicom is a medical web application designed to provide essential healthcare-related features through a simple and user-friendly interface. The application includes functionalities such as basic health information access, medicine details, appointment-related features, and symptom-based assistance. It was developed using modern web technologies with a focus on usability, responsive design, and real-world medical application use cases.
+
+### WeatherAPI – Real-Time Weather Forecast Application
+The WeatherAPI project is a real-time weather forecasting web application that fetches live weather data using a public Weather API. It displays current temperature, weather conditions, humidity, and location-based forecasts through a clean and responsive UI. The application was built using HTML, CSS, and JavaScript, demonstrating API integration, asynchronous data handling, and dynamic UI updates.
+
+## 💼 Experience
+I am currently a fresher, actively building projects and strengthening my technical skills through practical implementation and continuous learning.
+## 🎓 Education
+I am pursuing a Bachelor of Technology in Information Technology with a CGPA of 8.0. I completed my Class 12 education from Bhatpara Amar Krishna Pathshala with a score of 77% and my Class 10 education from the same institution with a score of 85%.
+
+## 🏆 Certifications & Achievements
+I have completed the Deloitte Data Analytics Job Simulation and earned certifications from Udemy as well as a Classroom C Programming Certification. I also participated in Hack4Bengal 2025, gaining valuable exposure to collaborative problem-solving and real-world project development.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sufal-basak-b95748260/) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Sufal-Basak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sufalbasak199@gmail.com) [![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@sufalbasak199)
@@ -12,7 +38,7 @@ Name<br><br>Sufal Basak<br><br>About Me<br><br>I am a B.Tech student in Informat
 ![](https://github-readme-stats.vercel.app/api?username=SufalBasak&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SufalBasak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SufalBasak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
