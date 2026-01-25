@@ -62,6 +62,6 @@ I also participated in Hack4Bengal 2025, gaining valuable exposure to collaborat
 
 <!-- Grid Snake -->
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https:/SufalBasak/raw.githubusercontent.com//SufalBasak/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
