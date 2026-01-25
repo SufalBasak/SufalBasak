@@ -1,5 +1,8 @@
 <!-- <img align="top" alt="Banner" width="1000" height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"> -->
-<h1 align="center">Hi 👋, I'm Sufal Basak</h1>
+<div align=center>
+<!-- 	<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true"  width="700px"/> <br><br> -->
+	<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Sufal+%F0%9F%91%8B;Full+stack+developer;Problem+Solver;Data+Anatylics+Enthusiast;Open-Source+Enthusiast;" alt="Headline" />
+</div>
 
 
 ## 💫 About Me
