@@ -58,3 +58,10 @@ I also participated in Hack4Bengal 2025, gaining valuable exposure to collaborat
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SufalBasak&label=Profile%20views&color=0e75b6&style=flat" alt="SufalBasak" /> </p>
+
+
+<!-- Grid Snake -->
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
