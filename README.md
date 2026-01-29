@@ -5,7 +5,7 @@
 </h1>
 
 
-## 💫 About Me
+## 💫 About Me:
 I am a B.Tech student in Information Technology with a strong passion for problem-solving, data analytics, and web development. I enjoy building efficient, user-centric applications and continuously enhancing my technical expertise through hands-on learning and real-world projects.
 ## 🛠️ Technical Skills
 I have hands-on experience with programming languages such as C, Python (OOPs), and Java. My frontend development skills include HTML, CSS, JavaScript, and React, enabling me to build responsive and interactive user interfaces. On the backend, I work with Python-based frameworks including Flask and FastAPI to develop scalable server-side applications. I am familiar with relational database management using MySQL and regularly use tools and platforms such as VS Code, Google Colab, Tableau, Power BI, MS Office, and Vercel to support development, analysis, and deployment workflows.
