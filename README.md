@@ -10,7 +10,7 @@ I am a B.Tech student in Information Technology with a strong passion for proble
 ## 🛠️ Technical Skills
 I have hands-on experience with programming languages such as C, Python (OOPs), and Java. My frontend development skills include HTML, CSS, JavaScript, and React, enabling me to build responsive and interactive user interfaces. On the backend, I work with Python-based frameworks including Flask and FastAPI to develop scalable server-side applications. I am familiar with relational database management using MySQL and regularly use tools and platforms such as VS Code, Google Colab, Tableau, Power BI, MS Office, and Vercel to support development, analysis, and deployment workflows.
 
-## 📌 Projects
+## 📌 Projects:
 
 ### TypeSpeak Pro – Typing & Speaking Practice Platform
 TypeSpeak Pro is an interview preparation platform designed to improve typing speed and spoken communication skills. The application provides real-time typing metrics such as words per minute (WPM), accuracy, and performance feedback to help users track progress. It features a responsive and interactive user interface built using HTML, CSS, JavaScript, and React, and is deployed on Vercel to ensure fast and reliable access.
