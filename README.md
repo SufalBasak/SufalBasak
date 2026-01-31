@@ -35,8 +35,9 @@ I am currently a fresher, actively building projects and strengthening my techni
 **Bhatpara AmarKrishna Pathsala(H.S.)**  
 **Higher Secondary Education**  
 *2022 – 2024*
+<br>
 **Bhatpara AmarKrishna Pathsala(H.S.)**  
-**Secondary Education**  
+**Secondary Education** 
 *2021 – 2022*
 
 ## 🏆 Certifications & Achievements
