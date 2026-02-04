@@ -63,6 +63,8 @@ I also participated in Hack4Bengal 2025, gaining valuable exposure to collaborat
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SufalBAsak&theme=react-dark&hide_border=false)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=SufalBasak&icon=0&color=0)](https://visitcount.itsvg.in)
 
