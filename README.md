@@ -25,7 +25,7 @@ Medicom is a medical web application designed to provide essential healthcare-re
 The WeatherAPI project is a real-time weather forecasting web application that fetches live weather data using a public Weather API. It displays current temperature, weather conditions, humidity, and location-based forecasts through a clean and responsive UI. The application was built using HTML, CSS, and JavaScript, demonstrating API integration, asynchronous data handling, and dynamic UI updates.
 
 ## 💼 Experience
-I am currently a fresher, actively building projects and strengthening my technical skills through practical implementation and continuous learning.
+I am currently a fresher, actively building projects and strengthening my technical skills through practical implementation and continuous learning...
 ## 🎓 Education
 **Narula Institute of Technology**  
 **B.Tech in Information Technology**  
